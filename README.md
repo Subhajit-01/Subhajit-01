@@ -18,7 +18,6 @@ Here are some ideas to get you started:
  <h1 align="center">Hi 👋, I'm Subhajit Khila</h1>
 <h3 align="center">Doing BS in Data Science & Application from IIT Madras and also doing B.Tech in Computer Science & Engineering from NSHM Durgapur.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajit-01&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit-01" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
