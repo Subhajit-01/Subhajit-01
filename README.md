@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">Doing BS in Data Science & Application from IIT Madras and also doing B.Tech in Computer Science & Engineering from NSHM Durgapur.</h3>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left"> 
